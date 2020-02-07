@@ -40,7 +40,4 @@
         }
     }
     setObserverAfterLoad();
-    // setInterval(urlifyLogs, 1000);
-    // document.urlifyLogs = urlifyLogs;
-
 })();
